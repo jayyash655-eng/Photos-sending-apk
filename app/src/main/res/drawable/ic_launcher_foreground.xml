@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Silhouette -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,22 C67,22 78,25 80,31 C80,52 69,73 54,84 C39,73 28,52 28,31 C30,25 41,22 54,22 Z" />
+
+    <!-- Inner Vault Core -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,27 C64,27 73,30 75,34 C75,50 66,68 54,77 C42,68 33,50 33,34 C35,30 44,27 54,27 Z" />
+
+    <!-- File Document Shape -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M44,38 L60,38 L66,44 L66,66 C66,67.1 65.1,68 64,68 L44,68 C42.9,68 42,67.1 42,66 L42,40 C42,38.9 42.9,38 44,38 Z" />
+
+    <!-- Document Corner Fold -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M60,38 L66,44 L60,44 Z" />
+
+    <!-- Padlock Shackle and Body on top of document -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,44 C51.8,44 50,45.8 50,48 L50,51 L58,51 L58,48 C58,45.8 56.2,44 54,44 Z M52,48 C52,46.9 52.9,46 54,46 C55.1,46 56,46.9 56,48 L56,51 L52,51 Z" />
+    
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M48,50 L60,50 C61.1,50 62,50.9 62,52 L62,62 C62,63.1 61.1,64 60,64 L48,64 C46.9,64 46,63.1 46,62 L46,52 C46,50.9 46.9,50 48,50 Z" />
+
+    <!-- Keyhole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 C52.9,54 52,54.9 52,56 C52,56.7 52.4,57.3 53,57.7 L53,60 L55,60 L55,57.7 C55.6,57.3 56,56.7 56,56 C56,54.9 55.1,54 54,54 Z" />
+</vector>

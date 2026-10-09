@@ -1,0 +1,6 @@
+{
+  "name": "Secure Gallery",
+  "description": "Password-protected gallery where authorized visitors can view and download admin-uploaded images and PDFs, with an admin control panel to manage user credentials and monitor file download history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
